@@ -1,7 +1,7 @@
 # Личный проект «Кэндишоп» [![Build status][travis-image]][travis-url]
 
 * Студент: [Gleb Yakovlev](https://up.htmlacademy.ru/javascript/15/user/251249).
-* Наставник: `Неизвестно`.
+* Наставник: `Кек Чебуреков`.
 
 ---
 
