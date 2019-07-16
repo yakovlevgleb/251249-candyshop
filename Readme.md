@@ -1,5 +1,7 @@
 # Личный проект «Кэндишоп» [![Build status][travis-image]][travis-url]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/yakovlevgleb/251249-candyshop.svg)](https://greenkeeper.io/)
+
 * Студент: [Gleb Yakovlev](https://up.htmlacademy.ru/javascript/15/user/251249).
 * Наставник: `Неизвестно`.
 
